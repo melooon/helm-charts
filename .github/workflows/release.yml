@@ -1,4 +1,3 @@
-# release.yml
 name: Release Charts
 on:
   push:
