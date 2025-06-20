@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mc:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-06-20T06:44:18.458492426Z"
+    description: A Helm chart to run mc client on a k8s cluster
+    digest: 18784b4a6f860b5a68a49c387f4b0cba5478945aae053dc254c55abd7d1e717c
+    name: mc
+    type: application
+    urls:
+    - https://github.com/melooon/helm-charts/releases/download/mc-1.0.0/mc-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-06-20T06:44:18.458498488Z"
